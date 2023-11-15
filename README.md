@@ -111,9 +111,8 @@ test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
  # OUTPUT :
-<img width="458" alt="nn31" src="https://github.com/Revathi-Dayalan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/96000574/05436d08-e64d-4fbf-991e-c23593518ca0">
-
-
+ 
+<img width="500" alt="nn31" src="https://github.com/Revathi-Dayalan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/96000574/05436d08-e64d-4fbf-991e-c23593518ca0">
 
 <img width="224" alt="nn32" src="https://github.com/Revathi-Dayalan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/96000574/77b5d4ca-e4bd-4e12-bd30-c7afaf8cf6be">
 
