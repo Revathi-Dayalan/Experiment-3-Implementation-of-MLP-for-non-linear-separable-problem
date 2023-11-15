@@ -110,7 +110,7 @@ predict(w1,w2,test)
 test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
- # OUTPUT
+ # OUTPUT :
 <img width="458" alt="nn31" src="https://github.com/Revathi-Dayalan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/96000574/05436d08-e64d-4fbf-991e-c23593518ca0">
 
 
